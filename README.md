@@ -1,2 +1,2 @@
 # PrimeiroRepositorio
-Repositório para arquivos usados em aula.
+Repositório para arquivos usados em aulas.
